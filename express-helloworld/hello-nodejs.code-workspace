@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../hello-nodejs/hello-nodejs"
+		},
+		{
+			"name": "DO101-apps",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
